@@ -238,15 +238,15 @@ inventory-management/
 
 ### 🏠 Product Inventory Dashboard
 The main dashboard showing all products with search, filter, and sorting capabilities.
-![Product Inventory Dashboard](Screenshot/screencapture-localhost-5173-2025-12-05-13_26_55.png)
+![Product Inventory Dashboard](InventoryManagement/Screenshot/screencapture-localhost-5173-2025-12-05-13_26_55.png)
 
 ### ➕ Add New Product Form
 Comprehensive form for adding new products with image upload functionality.
-![Add New Product Form](Screenshot/screencapture-localhost-5173-2025-12-05-13_27_05.png)
+![Add New Product Form](InventoryManagement/Screenshot/screencapture-localhost-5173-2025-12-05-13_27_05.png)
 
 ### ✏️ Product Details and Edit View
 Detailed view of a product with edit capabilities and image preview.
-![Product Details and Edit](Screenshot/screencapture-localhost-5173-2025-12-05-13_27_16.png)
+![Product Details and Edit](InventoryManagement/Screenshot/screencapture-localhost-5173-2025-12-05-13_27_16.png)
 
 ### 📱 Responsive Design
 The application is fully responsive and works seamlessly across desktop, tablet, and mobile devices.
