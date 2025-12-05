@@ -236,14 +236,33 @@ inventory-management/
 
 ## 📸 Screenshots
 
-### Product Inventory Dashboard
-![Product List](Screenshot/screencapture-localhost-5173-2025-12-05-13_26_55.png)
+### 🏠 Product Inventory Dashboard
+The main dashboard showing all products with search, filter, and sorting capabilities.
+![Product Inventory Dashboard](Screenshot/screencapture-localhost-5173-2025-12-05-13_26_55.png)
 
-### Add New Product Form
-![Add Product](Screenshot/screencapture-localhost-5173-2025-12-05-13_27_05.png)
+### ➕ Add New Product Form
+Comprehensive form for adding new products with image upload functionality.
+![Add New Product Form](Screenshot/screencapture-localhost-5173-2025-12-05-13_27_05.png)
 
-### Product Details and Edit
-![Product Details](Screenshot/screencapture-localhost-5173-2025-12-05-13_27_16.png)
+### ✏️ Product Details and Edit View
+Detailed view of a product with edit capabilities and image preview.
+![Product Details and Edit](Screenshot/screencapture-localhost-5173-2025-12-05-13_27_16.png)
+
+### 📱 Responsive Design
+The application is fully responsive and works seamlessly across desktop, tablet, and mobile devices.
+
+### 🔍 Advanced Filtering
+Powerful search and filter options including:
+- Text search across product names and descriptions
+- Category-based filtering
+- Price range filtering
+- Stock status filtering
+- Multiple sorting options (price, name, date)
+
+### 📊 Pagination & Performance
+Efficient pagination system handling large product catalogs with smooth navigation and loading states.
+
+> **Note**: To capture additional screenshots, run the application and take screenshots of different views like the search results, filtered products, mobile view, and edit mode.
 
 ## 🔧 Troubleshooting
 
